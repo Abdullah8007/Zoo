@@ -516,7 +516,7 @@ section {
 /* footer */
 
 .footer {
-    background: url(../images/footer.jpg) no-repeat;
+    background: url(../Images/footer.jpg) no-repeat;
     background-size: cover;
     padding: 3rem 7%;
 }
